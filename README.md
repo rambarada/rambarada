@@ -1,7 +1,7 @@
 ### Hi there, I'm Ram Barada 👋
 
 - 🎓 M.Sc. in Web Development | B.Sc. in Computer Science
-- 💻 Lead Developer specializing in Angular, Node.js, Firebase, and Google Cloud Platform (GCP)
+- 💻 Technical Lead specializing in Angular, Node.js, Firebase, and Google Cloud Platform (GCP)
 - ☁️ **AWS Certified Developer Associate (DVA-C02)**
 - 🎯 My focus: Turning complex business challenges into powerful, efficient, and scalable digital solutions
 - ⚡ Fun fact: I love optimizing systems—I once cut a project's monthly Algolia requests from 10,000 down to just 200!
@@ -10,6 +10,9 @@
 
 <a href="https://linkedin.com/in/ram-barada" target="_blank">
   <img align="left" alt="Ram Barada | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:owmrambarada@gmail.com" target="_blank">
+  <img align="left" alt="owmrambarada@gmail.com" width="22px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <br />
 <br />
