@@ -11,9 +11,6 @@
 <a href="https://linkedin.com/in/ram-barada" target="_blank">
   <img align="left" alt="Ram Barada | LinkedIn" title="LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/rambarada" target="_blank">
-  <img align="left" alt="Ram Barada | GitHub" title="GitHub" width="22px" src="https://skillicons.dev/icons?i=github" />
-</a>&nbsp;&nbsp;
 <a href="mailto:owmrambarada@gmail.com" target="_blank">
   <img align="left" alt="owmrambarada@gmail.com" title="Gmail" width="22px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
