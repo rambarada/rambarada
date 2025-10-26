@@ -60,3 +60,10 @@
   <img alt="Agile (Trello)" title="Agile (Trello)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />&nbsp;
   <img alt="VS Code" title="VS Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
+
+<br/></br>
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rambarada&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br />
